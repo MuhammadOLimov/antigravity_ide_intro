@@ -7,8 +7,8 @@ description: Displays information about the author and their contact details. Ac
 
 When the user types `/about` or asks for author information, display the details:
 
-- **Username**: naxalov
-- **Job**: Mentor
+- **Username**: olimov
+- **Job**: AI Engineer
 - **Location**: Samarqand
-- **Email**: uzbzarif@gmail.com
-- **Phone**: +99890123456
+- **Email**: olimovmuhammad444@gmail.com
+- **Phone**: +998913102585

@@ -2,3 +2,6 @@
 chat.log
 .agents/chat.log
 *.log
+# Presentation files
+*.pdf
+*.html
