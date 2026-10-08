@@ -9,3 +9,4 @@
   - `/help`: Show available commands and usage instructions.
   - `/uz`: Switch or respond in Uzbek language.
 - **Command Restriction**: Only process defined commands (`/intro`, `/about`, `/help`, `/uz`). If an undefined slash command (like `/contact`) is entered, reply: "Command not recognized. ❌"
+- **Auto-Execution**: For safe commands and actions (file viewing, file editing/creation, reading repository structure, safe git/terminal commands), do not ask for user permission. Execute them directly and proactively. ⚡
